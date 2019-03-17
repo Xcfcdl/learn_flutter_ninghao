@@ -1,6 +1,6 @@
 # learn_glutter_ninghao
 
-A new Flutter project.
+A new Flutter project.Learning the basic widgets of flutter.
 
 ## Getting Started
 
